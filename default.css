@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: #ccb8b2;
+}
+
+header {
+  background: #441c13;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  width: 150px;
+}
+
+.menu-cardapio {
+  text-align: center;
+}
+
+.menu-cardapio ul {
+  list-style: none;
+}
+
+.menu-cardapio ul li {
+  display: inline-block;
+  margin: 30px;
+}
+
+.menu-cardapio ul li a {
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin: 15px 30px;
+  text-transform: uppercase;
+}
+
+p {
+  margin: 15px 30px;
+}
+
+footer {
+  margin: 30px;
+  border-top: 1px solid #441c13;
+}
+
+.copy {
+  text-align: center;
+}
+
+.copy p {
+  margin: 20px 0;
+  font-weight: bold;
+}

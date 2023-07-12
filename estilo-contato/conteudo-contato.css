@@ -1,0 +1,64 @@
+.formulario-contato {
+  margin: 50px auto 100px;
+  width: 320px;
+  height: 270px;
+}
+
+fieldset {
+  width: 300px;
+  height: 350px;
+}
+
+legend {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+label {
+  display: block;
+  margin-right: 5px;
+  text-transform: uppercase;
+}
+
+form input,
+textarea {
+  display: block;
+  width: 250px;
+  margin: 0 25px;
+}
+
+form textarea {
+  display: block;
+  height: 100px;
+}
+
+.btn {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.botao-enviar {
+  display: block;
+  border-radius: 7px;
+  border: none;
+}
+
+h2 {
+  margin: 15px 30px;
+  text-transform: uppercase;
+}
+
+.links-redes-sociais {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  align-content: center;
+  flex-direction: row;
+}
+
+.links-redes-sociais img {
+  margin: 30px;
+  min-height: 50px;
+  max-height: 50px;
+}
